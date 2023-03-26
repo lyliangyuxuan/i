@@ -2,7 +2,7 @@
     "sites": [
         {
             "key": "js豆瓣",
-            "name": "🐼┃豆瓣┃免费接口，微信公众号：肥猫不肥",
+            "name": "🐼┃豆瓣┃免费接口，微信公众号：富坤衡器",
             "type": 3,
             "api": "http://id.ganggang.live:63/js/drpy.min.js",
             "ext": "http://id.ganggang.live:63/js/js_drpy.js",
