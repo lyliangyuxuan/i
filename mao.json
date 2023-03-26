@@ -426,7 +426,7 @@
         },
 	     {
 	"key": "csp_xml_忆梦",
-	"name": "🐝忆 梦",
+	"name": "🐝忆梦",
 	"type": 1,
 	"api": "http://anltv.cn/api.php/provide/vod/",
 	"playUrl": "",
