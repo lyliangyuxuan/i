@@ -12,8 +12,8 @@
             "key": "js豆瓣",
             "name": "🐼┃豆瓣┃免费接口，微信公众号：富坤衡器",
             "type": 3,
-            "api": "https://gitcode.net/sunzhenrong/tv/-/blob/master/libs/drpy2.min.js",
-            "ext": "https://gitcode.net/sunzhenrong/tv/-/blob/master/js/ddys.js",
+            "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
