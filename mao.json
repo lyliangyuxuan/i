@@ -131,8 +131,8 @@
             "key": "js七七",
             "name": "🌈┃七七┃影视",
             "type": 3,
-            "api": "http://id.ganggang.live:63/js/drpy.min.js",
-            "ext": "http://id.ganggang.live:63/js/七七.js",
+            "api": "https://gitcode.net/sunzhenrong/tv/-/blob/master/libs/drpy2.min.js",
+            "ext": "https://gitcode.net/sunzhenrong/tv/-/blob/master/js/酷云77.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
