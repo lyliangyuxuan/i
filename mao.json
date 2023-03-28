@@ -12,7 +12,7 @@
             "key": "js豆瓣",
             "name": "🐼┃豆瓣┃富坤衡器",
             "type": 3,
-            "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+            "api": "https://gitcode.net/sunzhenrong/mao/-/blob/master/libs/drpy2.min.js",
             "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js",
             "searchable": 0,
             "quickSearch": 0,
