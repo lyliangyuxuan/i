@@ -89,6 +89,13 @@
             "filterable": 1,
             "ext": "https://www.69mj.com/"
         },
+	      {
+            "key": "js_alistbaby",
+            "name": "👶宝宝网盘",
+            "type": 3,
+            "api": "https://framagit.org/duomv/duo/-/raw/main/js/alistbaby.js",
+            "ext": "https://yydsys.top/duo/json/baby.json"
+        },
         {
             "key": "csp_Paper",
             "name": "📜┃纸条┃云盘",
