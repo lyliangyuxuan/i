@@ -94,7 +94,7 @@
             "name": "👶宝宝网盘",
             "type": 3,
             "api": "https://framagit.org/duomv/duo/-/raw/main/js/alistbaby.js",
-            "ext": "https://gitcode.net/sunzhenrong/mao/-/blob/master/json/alist.json"
+            "ext": "http://52bsj.vip:81/api/v3/file/get/83743/alist.json?sign=vMe3cX0YwWrPEkqzQAZ4ktCqKYgdg-Xtq_PU2t2gpDk%3D%3A0"
         },
         {
             "key": "csp_Paper",
