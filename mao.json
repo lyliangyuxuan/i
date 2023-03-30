@@ -10,6 +10,16 @@
             "filterable": 1,
             "ext": "https://v.bulei.cc"
         },
+	    {
+	"key": "csp_XYQHiker布雷蓝光",
+	"name": "布雷影院",
+	"type": 3,
+	"api": "csp_XYQHiker",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://gitcode.net/sunzhenrong/mao/-/blob/master/json/布蕾蓝光影城.json"
+},
 
         {
             "key": "直播转点播",
